@@ -1,4 +1,4 @@
-name: entropy
+name: simple
 channels:
   - conda-forge
 dependencies:
